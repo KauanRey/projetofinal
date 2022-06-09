@@ -2,7 +2,7 @@
 <h2> Sistemas MultiStack </h2>
 <h3> Tecnologias Imersivas </h3>
 <h4> Professor Rômulo Cesar </h4>
-<h5> FrontEnd /<h5>
+<h5> FrontEnd </h5>
 <h6> BackEnd </h6>
 
 **Testando Negrito**<br>
@@ -25,6 +25,7 @@ https://www.w3schools.com/js/default.asp
 https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
 ```
 >5.*Lógica de Programação* Aplicada ao JavaScript<br>
+
 **Racha Cuca**
 ```
 https://rachacuca.com.br/
@@ -36,7 +37,14 @@ https://loja.mundosenai.com.br/senainacional/logica-de-programac-o-1-1-1-1-1
 ```
 https://codingdojo.org/kata/ 
 ```
-  
+**BeeCrowd**  
+```
+https://www.beecrowd.com.br/judge/pt/login?redirect=%2Fpt
+```
+**JavaScript**
+```
+https://www.w3schools.com/js/default.asp
+```
 6.*Orientação a Objetos* Aplicado ao JavaScript/TypeScript<br>
 7.Framewoks JavaScript: Angular, React e Vue.js<br>
 8.Linguagem C#: Básico , Intermediario e Avançado<br>
