@@ -8,15 +8,35 @@
 **Testando Negrito**<br>
 *Lista de Conteúdos*
   
-1.HTML - Linguagem de marcação de Testos (**estrutura**)<br>
+>1.HTML - Linguagem de marcação de Testos (**estrutura**)<br>
 ```
 https://www.w3schools.com/html/default.asp  
 ```
-
-2.CSS - Linguagem de *estilização* (cores,fontes,background...)<br>
-3.JavaScript - Linguagem de Programação Script (**funcionalidade**)<br>
-4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)<br>
-5.*Lógica de Programação* Aplicada ao JavaScript<br>
+>2.CSS - Linguagem de *estilização* (cores,fontes,background...)<br>
+```
+https://www.w3schools.com/css/default.asp
+```
+>3.JavaScript - Linguagem de Programação Script (**funcionalidade**)<br>
+```
+https://www.w3schools.com/js/default.asp
+```  
+>4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)<br>
+```
+https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
+```
+>5.*Lógica de Programação* Aplicada ao JavaScript<br>
+**Racha Cuca**
+```
+https://rachacuca.com.br/
+```
+```
+https://loja.mundosenai.com.br/senainacional/logica-de-programac-o-1-1-1-1-1
+```
+**Kata Dojo**
+```
+https://codingdojo.org/kata/ 
+```
+  
 6.*Orientação a Objetos* Aplicado ao JavaScript/TypeScript<br>
 7.Framewoks JavaScript: Angular, React e Vue.js<br>
 8.Linguagem C#: Básico , Intermediario e Avançado<br>
