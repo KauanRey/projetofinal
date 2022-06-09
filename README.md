@@ -9,6 +9,10 @@
 *Lista de Conteúdos*
   
 1.HTML - Linguagem de marcação de Testos (**estrutura**)<br>
+```
+https://www.w3schools.com/html/default.asp  
+```
+
 2.CSS - Linguagem de *estilização* (cores,fontes,background...)<br>
 3.JavaScript - Linguagem de Programação Script (**funcionalidade**)<br>
 4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)<br>
