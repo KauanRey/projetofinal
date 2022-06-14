@@ -1,0 +1,85 @@
+/*Criando o topo do site*/
+
+#topo{
+    width:100%;
+    height:120px;
+    border:1px solid green;
+    background-color:#4ba1e7;
+    color:#ffffff ;
+    text-transform: uppercase;
+
+}
+
+
+
+#logo{
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+
+nav{
+
+   position: absolute;
+   top:45px;
+   left:400px;
+}
+nav img{
+    width:31px;
+    height:31px;
+}
+
+
+
+
+/*Exemplo de CSS Externo*/
+
+body{
+    background-color:rgb(250, 248, 248);
+}
+
+
+
+
+/*filho*/
+
+ul li{
+   
+     display: inline;
+     padding-left: 80px;
+     width:50px;
+     height:50px;
+   
+     
+}
+/*neto*/
+ul li a{
+  
+    text-decoration: none;
+    color:black;
+   
+   
+}
+ul li a:hover{    
+    background-color: coral;  
+  
+}
+
+#principal{
+    width:100%;
+    height:500px;
+    border:2px solid rgb(173, 58, 58);
+}
+#rodape{
+    width:100%;
+    height:50px;
+    border:2px solid rgb(168, 55, 55);
+}
+
+
+#busca{
+  
+    text-align:right;
+    margin-right:20px;
+}
