@@ -15,6 +15,12 @@
 
     </style>
 
+<script type="text/javascript" src="bibliotecas/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="plugins/coin-slider.min.js"></script>
+<link rel="stylesheet" href="plugins/coin-slider-styles.css" type="text/css" />
+
+
+
 </head>
 <body>
     <div id="topo">
@@ -41,18 +47,35 @@
     </div>
      
 
-    <div id="principal">
-    
-    
-  
-   
-
-   
-
+    <main>
+      <div id="coin-slider">
+        <a href="https://www.eternizarbrindes.com.br/wp-content/uploads/2019/02/banner-canecas-de-porcelana-1.jpg" target="_blank">
+            <img src="https://www.eternizarbrindes.com.br/wp-content/uploads/2019/02/banner-canecas-de-porcelana-1.jpg" >
+            <span>
+                Description for img01
+            </span>
+        </a>
+        ......
+        ......
+        <a href="https://cdn.e-com.club/s/www.viafotodigital.com.br/uploads/banner-canecas-1591x420-copia.jpg">
+            <img src="https://cdn.e-com.club/s/www.viafotodigital.com.br/uploads/banner-canecas-1591x420-copia.jpg" >
+            <span>
+                Description for imgN
+            </span>
+        </a>
     </div>
+    </main>
+   
+
     <div id="rodape">
         CanecaNerd &copy;
     </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+          $('#coin-slider').coinslider();
+      });
+  </script>
 
 </body>
 </html>
